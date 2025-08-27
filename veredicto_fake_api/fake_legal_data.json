@@ -1,0 +1,147 @@
+[
+  {
+    "id": 10,
+    "act": "Environment Protection Act",
+    "section": "Section 15",
+    "title": "Penalty for Contravention",
+    "state": "All States",
+    "citation": "AIR 1992 SC 999",
+    "summary": "Whoever fails to comply with the provisions shall be punishable with imprisonment up to 5 years or fine up to Rs. 1 lakh.",
+    "tags": ["environment", "pollution", "penalty"],
+    "risks": [
+      { "clause": "imprisonment up to 5 years", "risk_level": "High" },
+      { "clause": "fine up to Rs. 1 lakh", "risk_level": "Medium" }
+    ]
+  },
+  {
+    "id": 11,
+    "act": "Contract Act, 1872",
+    "section": "Section 73",
+    "title": "Compensation for Loss or Damage",
+    "state": "Delhi",
+    "citation": "AIR 1955 SC 23",
+    "summary": "A party suffering from breach of contract is entitled to receive compensation for any loss or damage caused.",
+    "tags": ["contract", "compensation", "damages"],
+    "risks": [
+      { "clause": "breach of contract", "risk_level": "Medium" },
+      { "clause": "compensation for loss", "risk_level": "Low" }
+    ]
+  },
+  {
+    "id": 12,
+    "act": "Information Technology Act, 2000",
+    "section": "Section 66",
+    "title": "Computer Related Offences",
+    "state": "Karnataka",
+    "citation": "AIR 2005 SC 78",
+    "summary": "Hacking or unauthorized access to computer systems is punishable with imprisonment up to 3 years or fine up to Rs. 5 lakh.",
+    "tags": ["cybercrime", "hacking", "it law"],
+    "risks": [
+      { "clause": "hacking or unauthorized access", "risk_level": "High" },
+      { "clause": "imprisonment up to 3 years", "risk_level": "Medium" },
+      { "clause": "fine up to Rs. 5 lakh", "risk_level": "Low" }
+    ]
+  },
+  {
+    "id": 13,
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 21",
+    "title": "Power of Central Authority to Impose Penalties",
+    "state": "Maharashtra",
+    "citation": "AIR 2020 SC 412",
+    "summary": "Central Authority may impose a penalty up to Rs. 10 lakh for misleading advertisements or unfair trade practices.",
+    "tags": ["consumer rights", "penalty", "advertisement"],
+    "risks": [
+      { "clause": "misleading advertisements", "risk_level": "High" },
+      { "clause": "penalty up to Rs. 10 lakh", "risk_level": "Medium" }
+    ]
+  },
+  {
+    "id": 14,
+    "act": "Indian Penal Code, 1860",
+    "section": "Section 375",
+    "title": "Rape",
+    "state": "All States",
+    "citation": "AIR 2013 SC 1",
+    "summary": "A man is said to commit rape if he has sexual intercourse with a woman against her will or without her consent.",
+    "tags": ["criminal law", "sexual offences"],
+    "risks": [
+      { "clause": "sexual intercourse without consent", "risk_level": "High" },
+      { "clause": "imprisonment not less than 7 years", "risk_level": "High" }
+    ]
+  },
+  {
+    "id": 15,
+    "act": "Companies Act, 2013",
+    "section": "Section 447",
+    "title": "Punishment for Fraud",
+    "state": "All States",
+    "citation": "AIR 2016 SC 540",
+    "summary": "Any person guilty of fraud shall be punishable with imprisonment of not less than 6 months extending up to 10 years and fine.",
+    "tags": ["corporate", "fraud", "company law"],
+    "risks": [
+      { "clause": "fraud", "risk_level": "High" },
+      { "clause": "imprisonment up to 10 years", "risk_level": "High" },
+      { "clause": "fine", "risk_level": "Medium" }
+    ]
+  },
+  {
+    "id": 16,
+    "act": "Motor Vehicles Act, 1988",
+    "section": "Section 185",
+    "title": "Driving by a Drunken Person",
+    "state": "Punjab",
+    "citation": "AIR 2011 SC 452",
+    "summary": "Whoever drives a vehicle under the influence of alcohol shall be punishable with imprisonment up to 6 months or fine up to Rs. 2,000.",
+    "tags": ["traffic", "safety", "drunk driving"],
+    "risks": [
+      { "clause": "driving under the influence", "risk_level": "High" },
+      { "clause": "imprisonment up to 6 months", "risk_level": "Medium" },
+      { "clause": "fine up to Rs. 2,000", "risk_level": "Low" }
+    ]
+  },
+  {
+    "id": 17,
+    "act": "Payment of Wages Act, 1936",
+    "section": "Section 5",
+    "title": "Time of Payment of Wages",
+    "state": "Tamil Nadu",
+    "citation": "AIR 1971 SC 876",
+    "summary": "Every person responsible for payment of wages shall ensure timely payment without unauthorized deductions.",
+    "tags": ["labour law", "wages"],
+    "risks": [
+      { "clause": "delayed payment of wages", "risk_level": "Medium" },
+      { "clause": "unauthorized deductions", "risk_level": "High" }
+    ]
+  },
+  {
+    "id": 18,
+    "act": "Arms Act, 1959",
+    "section": "Section 25",
+    "title": "Punishment for Certain Offences",
+    "state": "Uttar Pradesh",
+    "citation": "AIR 1999 SC 245",
+    "summary": "Possession of unlicensed arms shall be punishable with imprisonment of not less than 3 years but may extend to 7 years.",
+    "tags": ["arms", "criminal law"],
+    "risks": [
+      { "clause": "possession of unlicensed arms", "risk_level": "High" },
+      { "clause": "imprisonment up to 7 years", "risk_level": "High" }
+    ]
+  },
+  {
+    "id": 19,
+    "act": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "section": "Section 20",
+    "title": "Punishment for Cannabis-related Offences",
+    "state": "All States",
+    "citation": "AIR 2001 SC 134",
+    "summary": "Production, possession or transport of cannabis shall be punishable with rigorous imprisonment up to 10 years and fine up to Rs. 1 lakh.",
+    "tags": ["drugs", "narcotics", "criminal law"],
+    "risks": [
+      { "clause": "production or possession of cannabis", "risk_level": "High" },
+      { "clause": "rigorous imprisonment up to 10 years", "risk_level": "High" },
+      { "clause": "fine up to Rs. 1 lakh", "risk_level": "Medium" }
+    ]
+  }
+]
+
